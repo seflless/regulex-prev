@@ -1,9 +1,11 @@
 Regulex
 =======
 
+Based off of: [JexCheng/regulex](https://github.com/JexCheng/regulex)
+
 JavaScript Regular Expression Parser & Visualizer.
 
-Visualizer : http://jex.im/regulex/
+Visualizer : https://francoislaberge.com/regulex/
 
 ###Features:
 - Written in pure JavaScript. No backend needed.
